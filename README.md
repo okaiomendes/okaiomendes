@@ -7,7 +7,7 @@
 Kaio Mendes
 Cloud & DevOps Engineer
 
-Azure | AWS | OCI | Terraform | Kubernetes
+Azure | AWS | OCI | GCP | Terraform | Kubernetes
 ```
 
 ### Cloud Infrastructure • DevOps • Platform Engineering • Automation
@@ -22,9 +22,9 @@ Azure | AWS | OCI | Terraform | Kubernetes
 
 Cloud & DevOps Engineer with a multi-cloud background across **Microsoft Azure, AWS, Oracle Cloud Infrastructure and Google Cloud**.
 
-I work with cloud infrastructure, networking, Infrastructure as Code, container platforms and automation — designing, operating and troubleshooting environments with a strong focus on reliability and scalability.
+I work with cloud infrastructure, networking, Infrastructure as Code, container platforms and automation — designing, operating and troubleshooting environments with a strong focus on **reliability, scalability and automation**.
 
-Currently exploring how **AI Agents and Harness Engineering** can improve infrastructure and DevOps workflows.
+I'm also exploring how **AI Agents and Harness Engineering** can improve infrastructure and DevOps workflows.
 
 ```yaml
 name: Kaio Mendes
@@ -45,7 +45,7 @@ cloud:
     - OCI
     - GCP
 
-currently_learning:
+currently_exploring:
   - Advanced Terraform
   - AWS
   - Kubernetes
@@ -60,20 +60,24 @@ currently_learning:
 ### Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
-  <img height="48" src="https://cdn.simpleicons.org/oracle/F80000" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp" alt="Azure, AWS and Google Cloud" />
+  <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" alt="Oracle Cloud Infrastructure" />
 </p>
 
 ### Infrastructure & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,git,github,githubactions" alt="Terraform, Kubernetes, Docker, Git, GitHub and GitHub Actions" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" height="40" alt="Azure DevOps" />
 </p>
 
 ### Systems & Automation
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,powershell,bash,python" />
+  <img src="https://skillicons.dev/icons?i=linux,powershell,bash,python" alt="Linux, PowerShell, Bash and Python" />
 </p>
 
 ---
@@ -82,22 +86,29 @@ currently_learning:
 
 ```text
 MICROSOFT
+│
 ├── Azure Solutions Architect Expert
 ├── Azure Network Engineer Associate
 ├── Azure Administrator Associate
 ├── Azure Fundamentals
 └── Microsoft Certified Trainer (MCT)
 
-MULTI-CLOUD & INFRASTRUCTURE
-├── Oracle Cloud Infrastructure Certified Associate
+
+CLOUD & INFRASTRUCTURE
+│
+├── Oracle Cloud Infrastructure — Certified Associate
 └── Linux Professional Institute — Linux Essentials
 
+
 PREVIOUS CERTIFICATIONS
+│
 ├── Google Cloud — Associate Cloud Engineer
-├── AWS Certified Cloud Practitioner
+├── AWS — Certified Cloud Practitioner
 ├── Oracle Cloud Infrastructure Foundations 2021
 └── Scrum Foundation Professional Certificate
 ```
+
+> Some previous certifications are listed to represent my broader multi-cloud background and certification history.
 
 ---
 
@@ -116,15 +127,27 @@ $ cat current-focus.txt
 
 ---
 
-## `> github_stats`
+## `> engineering_interests`
 
-<div align="center">
+```yaml
+infrastructure:
+  - Infrastructure as Code
+  - Cloud Networking
+  - Kubernetes
+  - Multi-Cloud Architecture
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=okaiomendes&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+engineering:
+  - Platform Engineering
+  - CI/CD
+  - Automation
+  - Observability
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okaiomendes&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
+ai:
+  - AI-assisted Engineering
+  - AI Agents
+  - Harness Engineering
+  - Infrastructure Automation
+```
 
 ---
 
@@ -134,6 +157,6 @@ $ cat current-focus.txt
 okaiomendes@cloud:~$ _
 ```
 
-**Cloud • Infrastructure • Automation • Engineering**
+### Cloud • Infrastructure • Automation • Engineering
 
 </div>
