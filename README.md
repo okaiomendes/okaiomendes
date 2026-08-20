@@ -68,10 +68,7 @@ currently_exploring:
 
 <p>
   <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,git,github,githubactions" alt="Terraform, Kubernetes, Docker, Git, GitHub and GitHub Actions" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" height="40" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" height="48" alt="Azure DevOps" />
 </p>
 
 ### Systems & Automation
@@ -96,7 +93,7 @@ MICROSOFT
 
 CLOUD & INFRASTRUCTURE
 │
-├── Oracle Cloud Infrastructure — Certified Associate
+├── Oracle Cloud Infrastructure — Certified Associate (2025)
 └── Linux Professional Institute — Linux Essentials
 
 
@@ -108,7 +105,7 @@ PREVIOUS CERTIFICATIONS
 └── Scrum Foundation Professional Certificate
 ```
 
-> Some previous certifications are listed to represent my broader multi-cloud background and certification history.
+> Previous certifications are included to represent my broader multi-cloud background and certification history.
 
 ---
 
@@ -148,6 +145,19 @@ ai:
   - Harness Engineering
   - Infrastructure Automation
 ```
+
+---
+
+## `> connect`
+
+<p>
+  <a href="https://www.linkedin.com/in/kaio-mendes/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kaio_Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/okaiomendes">
+    <img src="https://img.shields.io/badge/GitHub-@okaiomendes-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
