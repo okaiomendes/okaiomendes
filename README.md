@@ -1,14 +1,6 @@
 <div align="center">
 
-```text
-┌─[okaiomendes@cloud]─[~]
-└──╼ $ whoami
-
-Kaio Mendes
-Cloud & DevOps Engineer
-
-Azure | AWS | OCI | GCP | Terraform | Kubernetes
-```
+<img src="./assets/terminal-header.png" width="100%" alt="Kaio Mendes - Cloud & DevOps Engineer" />
 
 ### Cloud Infrastructure • DevOps • Platform Engineering • Automation
 
